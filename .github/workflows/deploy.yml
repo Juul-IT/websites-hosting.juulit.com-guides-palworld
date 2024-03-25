@@ -3,17 +3,23 @@ on:
   push:
     branches:
       - main # change to your desired branch name
+permissions:
+  contents: write
 jobs:
   build-and-deploy:
+    concurrency: ci-${{ github.ref }} # Recommended if you intend to make multiple deployments in quick succession.
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        with:
-          persist-credentials: false
-      - uses: actions/checkout@v2
-      - run: npm ci
-      - run: npm run build
-      - uses: JamesIves/github-pages-deploy-action@releases/v3
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install and Build
+        run: | 
+          npm ci
+          npm run build
+          
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           BRANCH: gh-pages
           FOLDER: dist # your output folder name
