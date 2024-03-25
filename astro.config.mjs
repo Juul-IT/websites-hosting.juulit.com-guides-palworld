@@ -3,7 +3,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://juul-it.github.io,
+	site: 'https://juul-it.github.io',
 	base: '/websites-hosting.juulit.com-guides-palworld',
 	integrations: [
 		starlight({
