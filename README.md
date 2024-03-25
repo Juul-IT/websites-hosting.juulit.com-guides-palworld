@@ -13,7 +13,7 @@ npm create astro@latest -- --template starlight
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
 ## 🚀 Project Structure
-
+.
 Inside of your Astro + Starlight project, you'll see the following folders and files:
 
 ```
