@@ -17,7 +17,7 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Palworld Guide' , link: '/guides/configure-palworld/' },
-						{ label: 'BaseCampWorkerMaxNum' , link: '/guides/basecampworkermaxnum/' },
+						{ label: 'Increase BaseCampWorkerMaxNum for More Camp Workers in Palworld' , link: '/guides/basecampworkermaxnum/' },
 					],
 				},
 				
