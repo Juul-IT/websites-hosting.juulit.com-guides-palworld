@@ -18,6 +18,7 @@ export default defineConfig({
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Palworld Guide' , link: '/guides/configure-palworld/' },
 						{ label: 'How To Increase BaseCampWorkerMaxNum for More Camp Workers in Palworld' , link: '/guides/basecampworkermaxnum/' },
+						{ label: 'How To Move A Save From Local To A Dedicated Server' , link: '/guides/loacl-to-dedicated-server' },
 					],
 				},
 				
