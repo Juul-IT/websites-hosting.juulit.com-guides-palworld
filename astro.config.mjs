@@ -20,6 +20,13 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'BaseCampWorkerMaxNum',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'BaseCampWorkerMaxNum,', link: '/guides/basecampworkermaxnum/' },
+					],
+				},
+				{
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
 				},
