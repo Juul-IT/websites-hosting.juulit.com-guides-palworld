@@ -20,7 +20,7 @@ export default defineConfig({
 						{ label: 'How To Increase BaseCampWorkerMaxNum for More Camp Workers in Palworld' , link: '/guides/basecampworkermaxnum/' },
 						{ label: 'How To Move A Save From Local To A Dedicated Server' , link: '/guides/move-a-save-from-local-to-a-dedicated-server/' },
 						{ label: 'How To Move A Save From One Dedicated Server To Another' , link: '/guides/move-a-save-from-one-dedicated-server-to-another/' },
-						{ label: 'Finding Hosting Providers' , link: '/guides/ finding-hosting-providers/' },
+						{ label: 'Finding Hosting Providers' , link: '/guides/finding-hosting-providers/' },
 					],
 				},
 				
