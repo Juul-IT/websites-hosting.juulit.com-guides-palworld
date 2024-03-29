@@ -22,6 +22,7 @@ export default defineConfig({
 						{ label: 'How To Move A Save From One Dedicated Server To Another' , link: '/guides/move-a-save-from-one-dedicated-server-to-another/' },
 						{ label: 'Finding Hosting Providers' , link: '/guides/finding-hosting-providers/' },
 						{ label: 'Setting a Palworld Server to 120 Tick Rate/FPS' , link: '/guides/setting-a-palworld-server-to-120-tick-rate-fps/' },
+						{ label: 'Activating PVP in Palworld' , link: '/guides/activating-pvp-in-palworld/' },
 					],
 				},
 				
