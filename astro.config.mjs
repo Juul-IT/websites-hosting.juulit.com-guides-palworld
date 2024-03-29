@@ -16,7 +16,8 @@ export default defineConfig({
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Palworld Guide', link: '/guides/configure-palworld/' },
+						{ label: 'Palworld Guide,', link: '/guides/configure-palworld/' },
+						{ label: 'BaseCampWorkerMaxNum', link: '/guides/basecampworkermaxnum/' }
 					],
 				},
 				{
