@@ -26,13 +26,7 @@ export default defineConfig({
 						{ label: 'BaseCampWorkerMaxNum' , link: '/guides/basecampworkermaxnum/' },
 					],
 				},
-				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Moving a save from local to a dedicated server' , link: '/guides/moving-a-save-from-local-to-a-dedicated-server/' },
-					],
-				},
+				
 				{
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
