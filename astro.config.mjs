@@ -23,6 +23,7 @@ export default defineConfig({
 						{ label: 'Finding Hosting Providers' , link: '/guides/finding-hosting-providers/' },
 						{ label: 'Setting a Palworld Server to 120 Tick Rate/FPS' , link: '/guides/setting-a-palworld-server-to-120-tick-rate-fps/' },
 						{ label: 'Activating PVP in Palworld' , link: '/guides/activating-pvp-in-palworld/' },
+						{ label: 'Making Your Palworld Server Visible on the Community List' , link: '/guides/making-your-palworld-server-visible-on-the-community-list/' },
 					],
 				},
 				
