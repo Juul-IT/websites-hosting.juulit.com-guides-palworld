@@ -38,7 +38,17 @@ export default defineConfig({
 						{ label: 'Recommended Server Specs for Hosting a Palworld Server' , link: '/guides/recommended-server-specs-for-hosting/' },
 					],
 				},
-				
+				{
+					label: 'Player Management',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Setting Up a Whitelist for a Palworld Server' , link: '/guides/whitelist/' },
+						{ label: 'Banning Players from a Palworld Server' , link: '/guides/ban/' },
+						{ label: 'SConfiguring Server Permissions for Different Player Roles on a Palworld Server' , link: '/guides/server-permissions/' },
+						{ label: 'Transferring Ownership of a Palworld Server to Another Player' , link: '/guides/transferring-ownership/' },
+						{ label: 'Limiting the Number of Players on a Palworld Server' , link: '/guides/limiting-number-of-players/' },
+					],
+				},
 				{
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
