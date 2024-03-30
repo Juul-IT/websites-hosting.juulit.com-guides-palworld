@@ -27,7 +27,13 @@ export default defineConfig({
 						{ label: 'Adding a Server Password in Palworld' , link: '/guides/add-a-server-password/' },
 					],
 				},
-				
+				{
+					label: 'Sever Configuration',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Changing the Map Size on a Palworld Server' , link: '/guides/changing-map-size/' },
+					],
+				},
 				
 				{
 					label: 'Reference',
