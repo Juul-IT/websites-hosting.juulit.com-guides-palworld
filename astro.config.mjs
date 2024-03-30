@@ -32,6 +32,8 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Changing the Map Size on a Palworld Server' , link: '/guides/changing-map-size/' },
+						{ label: 'Enabling Mods on a Palworld Server' , link: '/guides/enabling-mods/' },
+						{ label: ' Setting Up Automatic Server Backups for a Palworld Server' , link: '/guides/setting-up-automatic-backups/' },
 					],
 				},
 				
