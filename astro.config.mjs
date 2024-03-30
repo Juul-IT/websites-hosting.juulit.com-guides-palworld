@@ -34,7 +34,7 @@ export default defineConfig({
 						{ label: 'Changing the Map Size on a Palworld Server' , link: '/guides/changing-map-size/' },
 						{ label: 'Enabling Mods on a Palworld Server' , link: '/guides/enabling-mods/' },
 						{ label: ' Setting Up Automatic Server Backups for a Palworld Server' , link: '/guides/setting-up-automatic-backups/' },
-						{ label: 'Changing the Server\s Difficulty Settings in Palworld' , link: '/guides/changing-server-difficulty/' },
+						{ label: 'Changing the Server\'s Difficulty Settings in Palworld' , link: '/guides/changing-server-difficulty/' },
 						{ label: 'Recommended Server Specs for Hosting a Palworld Server' , link: '/guides/recommended-server-specs-for-hosting/' },
 					],
 				},
