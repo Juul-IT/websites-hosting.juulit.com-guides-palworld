@@ -44,9 +44,20 @@ export default defineConfig({
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Setting Up a Whitelist for a Palworld Server' , link: '/guides/whitelist/' },
 						{ label: 'Banning Players from a Palworld Server' , link: '/guides/ban/' },
-						{ label: 'SConfiguring Server Permissions for Different Player Roles on a Palworld Server' , link: '/guides/server-permissions/' },
+						{ label: 'Configuring Server Permissions for Different Player Roles on a Palworld Server' , link: '/guides/server-permissions/' },
 						{ label: 'Transferring Ownership of a Palworld Server to Another Player' , link: '/guides/transferring-ownership/' },
 						{ label: 'Limiting the Number of Players on a Palworld Server' , link: '/guides/limiting-number-of-players/' },
+					],
+				},
+				{
+					label: 'Performance Optimization',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Preventing Server Crashes in Palworld' , link: '/guides/prevent-server-crashes/' },
+						{ label: 'Server Optimization Tips for Palworld' , link: '/guides/optimization-tips/' },
+						{ label: 'Best Practices for Managing Server Resources in Palworld' , link: '/guides/troubleshoot-connectivity-issues/' },
+						{ label: 'Managing Server Resources in Palworld' , link: '/guides/managing-server-resources/' },
+						{ label: 'Configuring Server Region or Location for Better Connectivity in Palworld' , link: '/guides/configure-server-region/' },
 					],
 				},
 				{
