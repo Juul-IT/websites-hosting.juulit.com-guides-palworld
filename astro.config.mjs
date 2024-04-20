@@ -72,6 +72,17 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Security and Conflict Resolution',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Defending Base Camp from Enemy Attacks in Palworld' , link: '/guides/defend-camp-from-enemy-attacks/' },
+						{ label: 'Improving Security at Base Camp in Palworld' , link: '/guides/improve-security/' },
+						{ label: 'Handling Internal Conflicts at Base Camp in Palworld' , link: '/guides/internal-conflicts/' },
+						{ label: 'Maintaining Law and Order at Base Camp in Palworld' , link: '/guides/maintain-law-and-order/' },
+						{ label: 'Enforcing Rules and Regulations at Base Camp in Palworld' , link: '/guides/enforce-rules-and-regulations/' },
+					],
+				},
+				{
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
 				},
