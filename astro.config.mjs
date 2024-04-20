@@ -61,7 +61,7 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Performance Optimization',
+					label: 'Base Camp Management',
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Benefits of Having More Workers at Base Camp in Palworld' , link: '/guides/more-base-camp-workers/' },
