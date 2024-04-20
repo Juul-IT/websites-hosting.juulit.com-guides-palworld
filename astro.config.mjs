@@ -93,6 +93,16 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Workforce Management',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Fostering Teamwork and Collaboration at Base Camp in Palworld' , link: '/guides/foster-teamwork/' },
+						{ label: 'Providing Feedback and Coaching to Workers at Base Camp in Palworld' , link: '/guides/feedback-and-coaching/' },
+						{ label: 'Promoting Continuous Learning and Development at Base Camp in Palworld' , link: '/guides/prompte-continuous-laerning/' },
+						{ label: 'Handling Disputes Between Workers and Management at Base Camp in Palworld' , link: '/guides/disputes-between-workers-and-management/' },
+					],
+				},
+				{
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
 				},
