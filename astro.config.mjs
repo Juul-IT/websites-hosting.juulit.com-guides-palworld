@@ -66,7 +66,7 @@ export default defineConfig({
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Benefits of Having More Workers at Base Camp in Palworld' , link: '/guides/more-base-camp-workers/' },
 						{ label: 'Managing a Large Number of Workers at Base Camp in Palworld' , link: '/guides/manage-large-number-of-workers/' },
-						{ label: 'Strategies to Optimize Worker Productivity at Base Camp in Palworld' , link: '/guides/optimize-worker-prfoductivity/' },
+						{ label: 'Strategies to Optimize Worker Productivity at Base Camp in Palworld' , link: '/guides/optimize-worker-productivity/' },
 						{ label: 'Assigning Tasks to Workers at Base Camp in Palworld' , link: '/guides/assign-tasks-to-workers/' },
 						{ label: 'Recruiting New Workers for Base Camp in Palworld' , link: '/guides/recruit-new-workers/' },
 					],
