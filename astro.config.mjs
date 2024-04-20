@@ -88,7 +88,7 @@ export default defineConfig({
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Establishing Alliances with Other Players for Base Camp in Palworld' , link: '/guides/establish-alliances/' },
 						{ label: 'Managing Diplomatic Relations with Other Players for Base Camp in Palworld' , link: '/guides/managing-diplomatic-relations/' },
-						{ label: 'Gathering Intelligence on Rival Players for Base Camp in Palworld' , link: '/guides/gather-intelligence-on rivals/' },
+						{ label: 'Gathering Intelligence on Rival Players for Base Camp in Palworld' , link: '/guides/gather-intelligence-on-rivals/' },
 						{ label: 'Dealing with Traitors and Spies at Base Camp in Palworld' , link: '/guides/traitors-and-spies/' },
 					],
 				},
